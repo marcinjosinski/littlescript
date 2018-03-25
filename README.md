@@ -38,9 +38,9 @@ cmake --build .
 Tested on Linux with g++ 7.2.1 and Windows with GCC 7.2.0.
 
 ## Useful resources
-https://en.wikipedia.org/wiki/X86_calling_conventions
-http://ref.x86asm.net/coder64.html
-https://godbolt.org/
+https://en.wikipedia.org/wiki/X86_calling_conventions  
+http://ref.x86asm.net/coder64.html  
+https://godbolt.org/  
 objdump && NASM
 
 ## Inspirations:
